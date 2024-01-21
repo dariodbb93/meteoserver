@@ -1,0 +1,19 @@
+{
+  "name": "meteoserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "moment-timezone": "^0.5.44",
+    "node-fetch": "^3.3.2",
+    "pg": "^8.11.3"
+  }
+}
